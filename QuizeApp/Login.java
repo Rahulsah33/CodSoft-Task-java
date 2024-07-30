@@ -1,4 +1,3 @@
-
 package quizeapplication;
 
 import javax.swing.*;
